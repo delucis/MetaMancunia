@@ -1,0 +1,5 @@
+METAMANCUNIA is a piece of Max/MSP software that is intended to be used to power a sound installation, drawing on a database of field recordings taken around on Manchester, it will generate soundscapes in realtime.
+
+Requirements:
+- Max/MSP 5
+- Mac OS 10.5 (patch uses mdfind shell command to access the spotlight's search ability)
