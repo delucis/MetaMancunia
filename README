@@ -1,4 +1,4 @@
-METAMANCUNIA is a piece of Max/MSP software that is intended to be used to power a sound installation, drawing on a database of field recordings taken around on Manchester, it will generate soundscapes in realtime.
+METAMANCUNIA is a piece of Max/MSP software that is intended to be used to power a sound installation, drawing on a database of field recordings taken around Greater Manchester, it will generate soundscapes in realtime. The concept is to invite members of the public to contribute recordings of their own to the piece, allowing the gradual collaborative construction of an ever evolving soundscape that juxtaposes both private and public spaces.
 
 Requirements:
 - Max/MSP 5
